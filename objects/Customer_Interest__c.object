@@ -156,6 +156,16 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Customer Interest</pluralLabel>
+    <recordTypes>
+        <fullName>Music_Events_Record_Type</fullName>
+        <active>true</active>
+        <label>Music Events Record Type</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Sports_Interest_Record_Type</fullName>
+        <active>true</active>
+        <label>Sports Interest Record Type</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

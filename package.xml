@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Opportunity.Management_Approval_Stage__c</members>
-        <name>CustomField</name>
+        <members>Customer_Interest__c-Music Interest Layout</members>
+        <members>Customer_Interest__c-Sports Interest Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Sales Rep</members>
+        <members>SolutionManager</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Customer_Interest__c.Music_Events_Record_Type</members>
+        <members>Customer_Interest__c.Sports_Interest_Record_Type</members>
+        <name>RecordType</name>
     </types>
     <version>39.0</version>
 </Package>

@@ -55,10 +55,6 @@
                 <behavior>Edit</behavior>
                 <field>Management_Approval_Stage__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>PT_Markdown__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

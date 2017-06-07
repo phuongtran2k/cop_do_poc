@@ -32,6 +32,10 @@
                 <behavior>Edit</behavior>
                 <field>Category_Subtype__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>MyCaseNumber__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
